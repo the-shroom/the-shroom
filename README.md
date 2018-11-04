@@ -11,12 +11,15 @@ That’s our project for the *[Science Hack Day Berlin 18](http://berlin.science
 - Martin
 - Marco ([tach@marcoka.de](mailto:tach@marcoka.de))
 - Theresa
-- Nicolas Hess ([nicolas.hess@biolab.farm](mailto:nicolas.hess@biolab.farm)
+- Nicolas Hess ([nicolas.hess@biolab.farm](mailto:nicolas.hess@biolab.farm))
 - Jakob ([jschmolling@gmail.com](mailto:jschmolling@gmail.com))
 
 ### The setup
 This repository contains three main parts:
-* Arduino Code
+* Arduino Codes
 * Schematics
 * CAD-Files for the housing
+
+### The Logic
+
 
