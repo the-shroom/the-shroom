@@ -7,6 +7,7 @@ That’s our project for the *[Science Hack Day Berlin 18](http://berlin.science
 * [Team Members](#team-members)
 * [The Setup](#the-setup)
 * [The Logic](#the-logic)
+* [The Housing](#the-housing)
 * [Used Hardware](#used-hardware)
 
 ### Introduction
@@ -43,7 +44,8 @@ This repository contains three main parts:
 ### The Logic
 ![The scheme of the microfarm](https://raw.githubusercontent.com/the-shroom/the-shroom/master/img/Schematisches_Modell_Open_Micro_Farm.png)
 
-
+### The Housing
+![Screenshot of the CAD file for the housing](https://raw.githubusercontent.com/the-shroom/the-shroom/master/cad/shROOM_CAD_Ansicht_Ohne_Kanten.PNG)
 
 ### Used Hardware
 
