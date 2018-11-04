@@ -24,7 +24,7 @@ It's essentially a climate simulator, to foster fruiting of substrates of all sp
 Eating your home grown Mushrooms from your Open Mushroom Micro Farm gives you that great feeling of beeing your own Food Producer.
 
 ### Team Members
-- Ivo
+- Ivo [anbu.kakashi@gmail.com](mailto:anbu.kakashi@gmail.com)
 - Joelle
 - Karl
 - Malte  ([malte.larsen@biolab.farm](mailto:malte.larsen@biolab.farm))
