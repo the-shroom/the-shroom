@@ -25,15 +25,15 @@ It's essentially a climate simulator, to foster fruiting of substrates of all sp
 Eating your home grown Mushrooms from your Open Mushroom Micro Farm gives you that great feeling of beeing your own Food Producer.
 
 ### Team Members
-- Ivo [anbu.kakashi@gmail.com](mailto:anbu.kakashi@gmail.com)
+- Ivo 
 - Joelle
 - Karl
-- Malte  ([malte.larsen@biolab.farm](mailto:malte.larsen@biolab.farm))
+- Malte 
 - Martin
-- Marco ([tach@marcoka.de](mailto:tach@marcoka.de))
+- Marco 
 - Theresa
-- Nicolas Hess ([nicolas.hess@biolab.farm](mailto:nicolas.hess@biolab.farm))
-- Jakob ([jschmolling@gmail.com](mailto:jschmolling@gmail.com))
+- Nicolas 
+- Jakob 
 
 ### The Setup
 This repository contains three main parts:
