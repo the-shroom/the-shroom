@@ -3,9 +3,13 @@
 
 That’s our project for the *[Science Hack Day Berlin 18](http://berlin.sciencehackday.org/shdb18/)*.
 
-{{TOC}}
+* [Introduction](#introduction)
+* [Team Members](#team-members)
+* [The Setup](#the-setup)
+* [The Logic](#the-logic)
+* [Used Hardware](#used-hardware)
 
-##### Introduction
+### Introduction
 Home mushroom production has a lot of advantages.   
 Mushrooms are the only vegetarian food that can produce vitamin D. Our modern Lifestyle, especially in Cities, reduces our exposure to sunlight, so UV radiation is not sufficient for vitamin D synthesis.   
   
@@ -30,7 +34,7 @@ Eating your home grown Mushrooms from your Open Mushroom Micro Farm gives you th
 - Nicolas Hess ([nicolas.hess@biolab.farm](mailto:nicolas.hess@biolab.farm))
 - Jakob ([jschmolling@gmail.com](mailto:jschmolling@gmail.com))
 
-### The setup
+### The Setup
 This repository contains three main parts:
 * Arduino Codes
 * Schematics
